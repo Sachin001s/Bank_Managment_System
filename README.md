@@ -1,4 +1,4 @@
-<img src="calculator.png" align="right" width="200px" height="200px"/>
+<img src="BANKS.png" align="right" width="250px" height="250px"/>
 
 
 # Bank System Project    &nbsp; ![Static Badge](https://img.shields.io/badge/BANK_SYSTEM%20-%20BSP%20-%20%236515DD)
@@ -31,6 +31,9 @@ Once the smart contract is deployed, you can interact with the Bank system using
 - withdraw: Allows users to withdraw funds from their bank account.
 - getBalance: Returns the account balance of a user.
 You can use an Ethereum client or web3 libraries to interact with the deployed contract and call these functions.
+
+![Screenshot 2023-07-21 093441](https://github.com/Sachin001s/Bank_Managment_System/assets/128379424/bf3f0f31-c224-48d7-9f5a-ee9499627be3)
+
 
 ## Contributing
 Contributions to the Bank System project are welcome! If you find any issues or have suggestions for improvement, please feel free to create a pull request.
