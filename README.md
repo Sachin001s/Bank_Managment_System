@@ -1,8 +1,7 @@
+<img src="calculator.png" align="right" width="200px" height="200px"/>
 
-![Logo](https://www.pngitem.com/pimgs/m/531-5313435_bank-png-free-download-vector-bank-logo-png.png)
 
-
-# Bank System Project
+# Bank System Project    &nbsp; ![Static Badge](https://img.shields.io/badge/BANK_SYSTEM%20-%20BSP%20-%20%236515DD)
 
 This is a readme file for the Bank System project implemented in Solidity. The project aims to create a basic banking system using smart contracts on the Ethereum blockchain.
 
